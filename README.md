@@ -17,6 +17,8 @@
 [![sqale_index](https://sonarcloud.io/api/project_badges/measure?project=chubbyts_chubbyts-undici-server-uwebsockets&metric=sqale_index)](https://sonarcloud.io/dashboard?id=chubbyts_chubbyts-undici-server-uwebsockets)
 [![vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=chubbyts_chubbyts-undici-server-uwebsockets&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=chubbyts_chubbyts-undici-server-uwebsockets)
 
+**Deprecated: @chubbyts/chubbyts-undici-server-uwebsockets is no longer maintained, use [@chubbyts/chubbyts-http-uwebsockets](https://github.com/chubbyts/chubbyts-http-uwebsockets) instead.**
+
 ## Description
 
 Use @chubbyts/chubbyts-undici-server on uwebsockets.
